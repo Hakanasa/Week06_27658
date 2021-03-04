@@ -1,0 +1,6 @@
+1. Setelah melakukan pengujian app dengan mengklik object-object di layar, maka dapat disimpulkan bahwa:
+   a. App pertama(Animasi Property) sudah berjalan dengan baik dan memberikan animasi yang baik, animasi pertama ditunjukkan sebuah lingkaran yang membesar memenuhi layar perlahan kemudian 
+       animasi kedua merupakan animasi membesar juga namun lebih cepat dan terakhir adalah percampuran animasi pertama lalu perlahan mengecil dan menghilang.
+   b. App kedua(Animasi drawable) sudah berjalan dengan baik dengan menggunakan ImageView dan membuat sekumpulan gambar menjadi seolah-seolah animasi (gif).
+   c. App ketiga (Animasi berbasis ilmu fisika) sudah berjalan dengan baik dengan 2 tombol yaitu spring dan fling. Spring disini yang dimaksud adalah pegas sehingga membuat button dapat memantul seperti pegas.
+       Fling disini seperti gesekan yang proporsional dengan kecepatannya. 
